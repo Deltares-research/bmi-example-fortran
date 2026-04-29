@@ -163,3 +163,5 @@ including known stub implementations and a bug in `get_grid_edge_nodes`.
 ### Credits
 
 - NOAA-OWP `iso_c_fortran_bmi` interop layer: Nels Frazier, NOAA OWP (Apache 2.0)
+  https://github.com/NGWPC/ngen/tree/development/extern/iso_c_fortran_bmi/src
+  https://github.com/NOAA-OWP/ngen/tree/master/extern/iso_c_fortran_bmi
