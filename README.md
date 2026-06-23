@@ -57,7 +57,7 @@ platform for building the binaries.
 ## Deltares FEWS / Java interop
 
 This fork adds a C/Java interoperability layer on top of the standard BMI
-FORTRAN implementation, following the [NOAA-OWP NextGen `iso_c_fortran_bmi`](https://github.com/NOAA-OWP/ngen/tree/development/extern/iso_c_fortran_bmi)
+FORTRAN implementation, following the [NOAA-OWP NextGen `iso_c_fortran_bmi`]([https://github.com/NOAA-OWP/ngen/tree/development/extern/iso_c_fortran_bmi](https://github.com/NOAA-OWP/ngen/tree/master/extern/iso_c_fortran_bmi))
 pattern. This allows the model to be called from Java via
 [JNA (Java Native Access)](https://github.com/java-native-access/jna)
 inside [Deltares FEWS](https://www.deltares.nl/en/software-and-data/products/delft-fews).
