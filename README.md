@@ -13,7 +13,7 @@ This is a forked / detached version of the bmi-fortran-example adapter at:
 
 https://github.com/csdms/bmi-example-fortran
 
-The sole purpose of this repos was to build dynamic libraries for both Windows and (RHEL8) Linux, and to create a JNA interop for Java with some help of Claude Code.
+The sole purpose of this repos was to build dynamic libraries for both Windows and (RHEL8) Linux, and to create a JNA interop for Java.
 
 ## Note
 
