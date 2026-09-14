@@ -18,9 +18,9 @@ The sole purpose of this repos was to build dynamic libraries for both Windows a
 ## Note
 
 Files not relevant to the Deltares BMI application have been removed, and the github 
-fork was detached as this will not serve to create a pull requet upstream.
+fork was detached as this will not serve to create a pull request upstream.
 
-The `bmi_main.f90` and `test/` folder are preserved from the upstream 
+The `bmi_main.f90` file and `test/` folder are preserved from the upstream 
 CSDMS bmi-example-fortran repository as Fortran usage examples.
 They require CMake/fpm to build and are not part of the Java interop 
 build pipeline.
